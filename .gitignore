@@ -2,5 +2,6 @@ obj
 bin
 appsettings.json
 *.db
+*.db-*
 .vs
 .vscode
